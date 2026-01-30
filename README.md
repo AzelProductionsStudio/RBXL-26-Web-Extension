@@ -18,6 +18,10 @@
 
 This is a project made by **Azel**, in an attempt of giving life to the Roblox.com website, RBXL-26 is a setback to those times where there was actual creativity on roblox.
 
+Message from the creator: 
+
+"Sup fellas, it's the man himself, i want to remind you that this is the first extension i ever make, if you're going to leave criticism, please leave constructive criticism, that way, i can improve the extension, and as a developer myself. However, i don't really plan to continue a lot with this project, i just made it for fun, and because i hate boring themes... But yeah, i hope you like this!!" 
+
 
 
 
