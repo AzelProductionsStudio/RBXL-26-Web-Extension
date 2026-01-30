@@ -13,7 +13,7 @@
 5. Click **Load unpacked** and select the extracted folder.  
 6. Enjoy!  
 
-
+`NOTE: Once you enter roblox, click on the website / interact with it for the music to play, everytime the music stops, interact again`
 
 
 # About RBXL-26
