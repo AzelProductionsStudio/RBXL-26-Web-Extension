@@ -1,6 +1,6 @@
 ©2026 AZEL PRODUCTIONS, YOU MAY NOT REDISTRIBUTE THIS AS YOUR OWN
 
-Install Instructions:
+# Install Instructions:
 - Download the .Zip file
 - Right Click It And hit "Extract"
 - Open your browser:
@@ -12,4 +12,4 @@ Install Instructions:
 - Enjoy
 
   
-    ⚠ NOT TESTED ON ANY OTHER BROWSER, BEWARE! ⚠
+   # ⚠ NOT TESTED ON ANY OTHER BROWSER, BEWARE! ⚠
