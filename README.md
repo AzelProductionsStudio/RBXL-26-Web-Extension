@@ -11,5 +11,14 @@
 - Open the extracted folder
 - Enjoy
 
-  
-   # ⚠ NOT TESTED ON ANY OTHER BROWSER, BEWARE! ⚠
+
+
+# About RBXL-26
+![Image](https://github.com/user-attachments/assets/fbb3e860-345c-4e33-a16b-d0495b4338e3)
+
+This is a project made by **Azel**, in an attempt of giving life to the Roblox.com website, RBXL-26 is a setback to those times where there was actual creativity on roblox.
+
+
+
+
+   ⚠ NOT TESTED ON ANY OTHER BROWSER, BEWARE! ⚠
