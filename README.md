@@ -24,7 +24,7 @@ This is a project made by **Azel**, in an attempt of giving life to the Roblox.c
 
 Message from the creator: 
 
-"Sup fellas, it's the man himself, i want to remind you that this is the first extension i ever make, if you're going to leave criticism, please leave constructive criticism, that way,i can improve as a developer myself. However, i don't really plan to continue a lot with this project, i just made it for fun, and because i hate boring themes... But yeah, i hope you like this!!" 
+"Sup fellas, it’s the man himself! Just a heads-up: this is the first extension I’ve ever made, and I built it mostly for fun because I hate boring themes. I don’t plan to actively update or maintain this project, so please don’t expect regular improvements. Use it as-is, enjoy it, and have fun!" 
 
 # Features
 - Animated Background
