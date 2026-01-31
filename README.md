@@ -3,8 +3,9 @@
 ## Installation Instructions
 
 1. Download the `.zip` file.  
-2. Extract it anywhere on your computer.  
-3. Open your browser:  
+2. Extract it anywhere on your computer.
+3. Open the extracted folder, you'll see another folder named "RBXL-26", move the folder anywhere to your computer  
+4. Open your browser:  
 
 **Chrome:** go to `chrome://extensions`  
 **Edge:** go to `edge://extensions`  
