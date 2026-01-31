@@ -24,7 +24,7 @@ This is a project made by **Azel**, in an attempt of giving life to the Roblox.c
 
 Message from the creator: 
 
-"Sup fellas, it’s the man himself! Just a heads-up: this is the first extension I’ve ever made, and I built it mostly for fun because I hate boring themes. I don’t plan to actively update or maintain this project, so please don’t expect regular improvements. Use it as-is, enjoy it, and have fun!" 
+"Sup fellas, it’s the man himself! Just a heads-up: this is the first extension I’ve ever made, and I built it mostly for fun because I hate boring themes. I don’t plan to actively update or maintain this project,if i update it, it's because i felt like it, so please don’t expect regular updates. Use it as-is, enjoy it, and have fun!" 
 
 # Features
 - Animated Background
@@ -35,4 +35,4 @@ Message from the creator:
 
 
 
-   ⚠ USE DARK MODE! THIW WAS NOT TESTED ON ANY OTHER BROWSER, BEWARE! ⚠
+   ⚠ USE DARK MODE! THIS WAS NOT TESTED ON ANY OTHER BROWSER, BEWARE! ⚠
